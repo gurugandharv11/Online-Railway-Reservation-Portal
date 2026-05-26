@@ -90,6 +90,22 @@ http://localhost:8080/TrainBook-1.0.0-SNAPSHOT
 Create required tables in Oracle SQL and configure database connection properly before running the project.
 
 📸 Screenshots
+## 📸 Project Screenshots
+
+### Login Page
+<img width="100%" src="YOUR_IMAGE_LINK">
+
+### Train Search
+<img width="100%" src="YOUR_IMAGE_LINK">
+
+### Ticket Booking
+<img width="100%" src="YOUR_IMAGE_LINK">
+
+### Payment Gateway
+<img width="100%" src="YOUR_IMAGE_LINK">
+
+### Booking History
+<img width="100%" src="YOUR_IMAGE_LINK">
 Login Page
 Train Search
 Ticket Booking
@@ -110,3 +126,4 @@ GitHub: https://github.com/gurugandharv11
 
 
 :contentReference[oaicite:0]{index=0}
+
